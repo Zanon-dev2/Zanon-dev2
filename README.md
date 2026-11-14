@@ -4,13 +4,13 @@ A Brazilian developer passionate about **low-level systems**, **bare-metal devel
 
 ## 🏆 Favorite Languages (Ranked)
 
-1. ![C++](https://shields.io) — *My #1 go-to language for systems and performance.*
-2. ![Haskell](https://shields.io) — *Pure functional elegance.*
-3. ![Assembly](https://shields.io) — *Direct hardware control from scratch.*
-4. ![HolyC](https://shields.io) — *Unconventional systems programming.*
-5. ![Rust](https://shields.io) — *Modern systems safety and CLI tooling.*
-6. ![TypeScript](https://shields.io) — *Typed web development.*
-7. ![JavaScript](https://shields.io) — *Lightweight browser scripting.*
+1. **C++** — *My #1 go-to language for everything.*
+2. **Haskell** — *Pure functional elegance.*
+3. **Assembly** — *Direct hardware control from scratch.*
+4. **HolyC** — *Unconventional systems programming.*
+5. **Rust** — *Modern systems safety and CLI tooling.*
+6. **TypeScript** — *Typed web development.*
+7. **JavaScript** — *Lightweight browser scripting.*
 
 ## 🚀 Featured Projects
 
@@ -19,7 +19,3 @@ A Brazilian developer passionate about **low-level systems**, **bare-metal devel
 * **[Workez](https://github.com)** — A personal C++17 utility library for Windows IPC (`piper`), stream list parsing, and simplified **Crow** HTTP routes.
 * **[VideoRep](https://github.com)** — A lightweight CLI video launcher built while studying Rust.
 * **[BookSite](https://github.com)** — A single-file digital PDF library prototype built with HTML, CSS, and JavaScript.
-
-## 📊 GitHub Stats
-
-![Zanon-dev2's GitHub Stats](https://vercel.app)
